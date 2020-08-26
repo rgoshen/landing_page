@@ -1,5 +1,5 @@
 # landing_page
-This is my first landing page.
+This is my first landing page.  This uses HTML & CSS.
 
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 
